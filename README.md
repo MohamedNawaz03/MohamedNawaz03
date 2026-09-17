@@ -50,8 +50,10 @@ Currently, I'm focusing on improving my Data Science, Machine Learning, Generati
 * Generative AI
 * Entrepreneurship
 * Cloud Computing
-
-## GitHub Contributions
+## Github Contributions
 
 <picture>
-  <source media="(prefer
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="dist/github-snake.svg" />
+</picture>
