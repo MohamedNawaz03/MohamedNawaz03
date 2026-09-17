@@ -1,38 +1,11 @@
-# 👋 Hi, I'm Mohamed Nawaz N
+## About Me
 
-### 🚀 Aspiring Data Scientist | AI Enthusiast | Entrepreneur
+Hi, I'm Mohamed Nawaz N, an aspiring Data Scientist and entrepreneur with a strong interest in Artificial Intelligence and its real-world applications.
 
-I’m an **aspiring Data Scientist and entrepreneur** passionate about building innovative solutions at the intersection of **Artificial Intelligence, Data Science, and Healthcare**.
+I'm particularly interested in exploring how AI can be used in the healthcare domain to solve practical problems and build useful solutions. I enjoy learning new technologies, experimenting with ideas, and turning them into projects.
 
-My long-term goal is to leverage **AI technologies to solve real-world healthcare challenges**, improve accessibility, support better decision-making, and create impactful technology-driven solutions.
+I have experience working with Python, C, C++, Java, DSA, and SQL. I've also worked with Retrieval-Augmented Generation (RAG) and have explored tools such as Google AI Studio, OpenAI, and ChatGPT for building and experimenting with AI-based applications.
 
-### 💡 What I’m Interested In
+I'm also interested in AI-assisted development and vibe coding, where I use AI tools to explore ideas, speed up development, and learn through building.
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Science & Data Analytics
-* 🏥 AI in Healthcare
-* 🧠 Retrieval-Augmented Generation (RAG)
-* 🚀 Entrepreneurship & Product Development
-* ☁️ Cloud-based AI Applications
-* 💻 Vibe Coding & AI-assisted Development
-
-### 🛠️ Technical Skills
-
-**Programming:**
-`Python` • `C` • `C++` • `Java`
-
-**Core Concepts:**
-`Data Structures & Algorithms (DSA)` • `SQL` • `Object-Oriented Programming`
-
-**AI & Generative AI:**
-`RAG` • `Google AI Studio` • `OpenAI / ChatGPT` • `AI-assisted Development` • `Vibe Coding`
-
-I enjoy experimenting with **AI tools and emerging technologies**, turning ideas into working prototypes, and continuously learning how AI can be applied to meaningful real-world problems.
-
-### 🎯 My Vision
-
-> **Build intelligent technology that creates meaningful impact in healthcare and beyond.**
-
-I’m constantly learning, experimenting, and building projects that bring together **data, AI, and entrepreneurship**.
-
-📌 *Learning today. Building tomorrow. Innovating for a better future.*
+My current goal is to strengthen my skills in Data Science and AI while developing projects that can have a practical impact, especially in healthcare. I also hope to combine my technical interests with entrepreneurship and eventually build products that solve meaningful problems.
