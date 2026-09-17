@@ -1,11 +1,57 @@
+# Mohamed Nawaz N
+
+Aspiring Data Scientist | AI Enthusiast | Entrepreneur
+
 ## About Me
 
-Hi, I'm Mohamed Nawaz N, an aspiring Data Scientist and entrepreneur with a strong interest in Artificial Intelligence and its real-world applications.
+I'm an aspiring Data Scientist and entrepreneur interested in Artificial Intelligence and its applications in healthcare.
 
-I'm particularly interested in exploring how AI can be used in the healthcare domain to solve practical problems and build useful solutions. I enjoy learning new technologies, experimenting with ideas, and turning them into projects.
+I like working on problems where technology can be used to build practical solutions. My main interest is exploring how AI and data can be applied to healthcare and eventually turning some of these ideas into useful products.
 
-I have experience working with Python, C, C++, Java, DSA, and SQL. I've also worked with Retrieval-Augmented Generation (RAG) and have explored tools such as Google AI Studio, OpenAI, and ChatGPT for building and experimenting with AI-based applications.
+I have experience with Python, C, C++, Java, DSA, and SQL. I've also worked with Retrieval-Augmented Generation (RAG) and explored tools such as Google AI Studio, OpenAI, and ChatGPT.
 
-I'm also interested in AI-assisted development and vibe coding, where I use AI tools to explore ideas, speed up development, and learn through building.
+I'm interested in AI-assisted development and vibe coding as well, mainly as a way to experiment with ideas and build prototypes faster.
 
-My current goal is to strengthen my skills in Data Science and AI while developing projects that can have a practical impact, especially in healthcare. I also hope to combine my technical interests with entrepreneurship and eventually build products that solve meaningful problems.
+Currently, I'm focusing on improving my Data Science, Machine Learning, Generative AI, and cloud computing skills while working on projects and learning through hands-on development.
+
+## Skills
+
+### Programming
+
+* Python
+* C
+* C++
+* Java
+* SQL
+
+### Computer Science
+
+* Data Structures and Algorithms
+* Object-Oriented Programming
+* Database Management
+* Problem Solving
+
+### AI
+
+* Generative AI
+* Retrieval-Augmented Generation (RAG)
+* Google AI Studio
+* OpenAI
+* ChatGPT
+* AI-assisted Development
+* Vibe Coding
+
+## Interests
+
+* Data Science
+* Artificial Intelligence
+* Machine Learning
+* Healthcare Technology
+* Generative AI
+* Entrepreneurship
+* Cloud Computing
+
+## GitHub Contributions
+
+<picture>
+  <source media="(prefer
